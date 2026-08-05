@@ -1,30 +1,52 @@
 # Flutter Grocery UI
 
-A Flutter UI project built from a Figma design.
+A Flutter UI project based on a Figma design for a grocery shopping application.
 
-## Overview
+## Screens
 
-This project is a Flutter implementation of a grocery app welcome screen based on a Figma design. It focuses on building a clean and responsive user interface using Flutter widgets.
+### 1. Welcome Screen
+A modern onboarding screen with:
+- Full-screen background image
+- App logo
+- Welcome message
+- Get Started button
 
-## Features
+### 2. Sign In Screen
+A clean sign in form including:
+- Name field
+- Email field
+- Password field
+- Input validation
+- Success SnackBar
+- Responsive layout
 
-- Welcome screen
-- Navigation to a placeholder Sign In screen
-- Clean widget structure
-- Asset management
-- Responsive UI
-
-## Technologies
+## Built With
 
 - Flutter
 - Dart
 - Material Design
-- Figma
 
-## Project Status
+## Features
 
-This is a UI practice project. The Sign In screen is currently a placeholder and authentication has not been implemented yet.
+- Pixel-inspired UI based on Figma
+- Form validation
+- Clean and readable code
+- Responsive layout
+- Easy navigation between screens
+
+## Screenshots
+
+### Welcome Screen
+
+![Welcome Screen](welcome_screen.png)
+
+### Sign In Screen
+
+![Sign In Screen](Sign_In.png)
 
 ## Author
 
-Asmaa Hussein
+**Asmaa Hussien**
+
+GitHub:
+https://github.com/asmaahusien440-droid
