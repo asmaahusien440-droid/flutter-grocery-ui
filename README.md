@@ -2,49 +2,68 @@
 
 A Flutter UI project based on a Figma design for a grocery shopping application.
 
-## Screens
+---
 
-### 1. Welcome Screen
-A modern onboarding screen with:
+# Screens
+
+## 1. Welcome Screen
+
+Features:
 - Full-screen background image
-- App logo
+- Grocery logo
 - Welcome message
 - Get Started button
+- Responsive layout
 
-### 2. Sign In Screen
-A clean sign in form including:
+### Preview
+
+![Welcome Screen](Welcome_screen.png)
+
+---
+
+## 2. Sign In Screen
+
+Features:
 - Name field
 - Email field
 - Password field
-- Input validation
+- Form validation
+- Rounded text fields
+- Green Sign In button
 - Success SnackBar
 - Responsive layout
 
-## Built With
+### Preview
+
+![Sign In Screen](Sign_in.png)
+
+---
+
+# Built With
 
 - Flutter
 - Dart
 - Material Design
+- Figma
 
-## Features
+---
 
-- Pixel-inspired UI based on Figma
-- Form validation
-- Clean and readable code
-- Responsive layout
-- Easy navigation between screens
+# Project Structure
 
-## Screenshots
+```text
+lib/
+├── main.dart
+├── splash_screen.dart
+└── signin_screen.dart
 
-### Welcome Screen
+assets/
+├── images/
+└── fonts/
+```
 
-![Welcome Screen](welcome_screen.png)
+---
 
-### Sign In Screen
-
-![Sign In Screen](Sign_In.png)
-
-## Author
+# Author
 
 **Asmaa Hussien**
 
