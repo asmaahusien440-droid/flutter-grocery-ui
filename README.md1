@@ -1,0 +1,20 @@
+# Flutter Grocery UI
+
+A Flutter practice project based on a Figma design.
+
+## Overview
+This project demonstrates my ability to convert a Figma design into a Flutter user interface.
+
+### Features
+- Welcome screen
+- Navigation to a Sign In screen
+- Clean widget structure
+- Asset management
+
+### Technologies
+- Flutter
+- Dart
+- Material Design
+- Figma
+
+> Note: This is a UI practice project. The Sign In screen is currently a placeholder and authentication is not implemented yet.
